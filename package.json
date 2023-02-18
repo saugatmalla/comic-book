@@ -4,7 +4,7 @@
   "homepage": "https://saugatmalla.github.io/comic-book",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d ."
   },
   "dependencies": {
     "gh-pages": "^5.0.0"
