@@ -1,0 +1,12 @@
+{
+  "name": "comic-book",
+  "version": "1.0.0",
+  "homepage": "https://saugatmalla.github.io/comic-book",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
